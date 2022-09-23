@@ -1,6 +1,4 @@
-/*A useful property of an SVG (scalable vector graphics) is that it contains a path attribute which allows the image to be scaled without affecting the resolution of the resultant image.
-
-Currently, the img is assuming it's default size, which is too large. I've correctly scaled the image using it's id as a selector, and setting the width to max(100px, 18vw).*/
 #logo {
   width: max(100px, 18vw);
+  background-color: #0a0a23;
 }
