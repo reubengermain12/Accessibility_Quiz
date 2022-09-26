@@ -41,10 +41,9 @@
             <input id="student-email" type="email" name="email" />
           </div>
           <div class="info">
-            <!--Arguably, D.O.B. is not descriptive enough. This is especially true for visually impaired users. One way to get around such an issue, without having to add visible text to the label, is to add text only a screen reader can read.
-            
-            So I appended a span element with a class of sr-only to the current text content of the thrid label element-->
-            <label for="birth-date">D.O.B.<span class="sr-only"></span></label>
+            <label for="birth-date"
+              >D.O.B.<span class="sr-only">(Date of Birth)</span></label
+            >
             <input id="birth-date" type="date" name="DOB" />
           </div>
         </section>
