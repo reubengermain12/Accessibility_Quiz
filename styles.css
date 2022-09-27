@@ -35,6 +35,9 @@ nav li {
   padding: 0.2rem;
   display: block;
 }
+li > a {
+  color: aqua;
+}
 h1,
 h2 {
   font-family: Verdana, Tahoma, sans-serif;
