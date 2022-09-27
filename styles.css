@@ -10,7 +10,6 @@ body {
   aspect-ratio: 35 / 4;
   padding: 0.4rem;
 }
-/*Clean up the header by using Flexbox to put space between the children & vertically center them. Also fixed the header to the top of the viewport.*/
 header {
   width: 100%;
   height: 50px;
