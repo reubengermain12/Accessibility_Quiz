@@ -35,9 +35,6 @@ nav li {
   padding: 0.2rem;
   display: block;
 }
-/*To make the navigation buttons look more like typical buttons, I removed the underline from the anchor tags.
-
-Then, I created a new selector targeting the navigation list elements so that when the cursor hovers over them, the background color and text color are switched, and the cursor becomes a pointer.*/
 nav li:hover {
   background-color: #dfdfe2;
   color: #1b1b32;
