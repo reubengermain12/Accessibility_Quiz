@@ -149,6 +149,11 @@ footer {
   justify-content: center;
 }
 
+footer,
+footer a {
+  color: aqua;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
