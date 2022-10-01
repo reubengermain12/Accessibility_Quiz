@@ -89,6 +89,11 @@ h2 {
 input {
   font-size: 16px;
 }
+.info input,
+.info label {
+  display: inline-block;
+  text-align: right;
+}
 
 .info > input {
   width: 50%;
