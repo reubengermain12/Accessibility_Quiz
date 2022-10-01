@@ -1,6 +1,3 @@
-/*Clicking on the navigation links should jump the viewport to the relevant section. However, this jumping can be disorienting for some users.
-
-To sort this problem out I've selected all elements & set the scroll-behavior to smooth*/
 * {
   scroll-behavior: smooth;
 }
