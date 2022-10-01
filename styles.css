@@ -151,7 +151,12 @@ footer {
 
 footer,
 footer a {
-  color: aqua;
+  color: #dfdfe2;
+}
+
+address {
+  text-align: center;
+  padding: 10px;
 }
 
 .sr-only {
